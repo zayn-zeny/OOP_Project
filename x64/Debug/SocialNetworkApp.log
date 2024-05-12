@@ -1,0 +1,10 @@
+﻿  Source.cpp
+C:\Users\saady\OneDrive\Desktop\SocialNetworkApp\Source.cpp(255,17): warning C4150: deletion of pointer to incomplete type 'Comment'; no destructor called
+C:\Users\saady\OneDrive\Desktop\SocialNetworkApp\Source.cpp(8): message : see declaration of 'Comment'
+C:\Users\saady\OneDrive\Desktop\SocialNetworkApp\Source.cpp(262,13): warning C4150: deletion of pointer to incomplete type 'Activity'; no destructor called
+C:\Users\saady\OneDrive\Desktop\SocialNetworkApp\Source.cpp(9): message : see declaration of 'Activity'
+C:\Users\saady\OneDrive\Desktop\SocialNetworkApp\Source.cpp(345,22): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\saady\OneDrive\Desktop\SocialNetworkApp\Source.cpp(627,22): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\saady\OneDrive\Desktop\SocialNetworkApp\Source.cpp(655,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\saady\OneDrive\Desktop\SocialNetworkApp\Source.cpp(656,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  SocialNetworkApp.vcxproj -> C:\Users\saady\OneDrive\Desktop\SocialNetworkApp\x64\Debug\SocialNetworkApp.exe
